@@ -1,2 +1,1 @@
-# dthcabeiptvlive
- (1) The channels are from all around the world and including a multilingual world TV.   (2)100000+ IPTV+DTH+CABLE Channels. ( 3) developer is brand new so the team is working day and night to get things updated all the time.   (4)-Working on most the Android Devices &amp;  Works on all Android Smart Phones. (5)-player required to install before using the streams is =  MX Player ,Wuffy Player ,VLC ,X Player &amp; Any Other External Player
+#EXTM3U #EXTINF:-1,STAR Plus http://51.15.8.16:8081/ind1live/starplususa/playlist.m3u8 #EXTINF:-1,ZEE Tv https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8    
